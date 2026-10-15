@@ -1,0 +1,27 @@
+# Built application files
+/*/build/
+build/
+captures/
+
+reports/
+
+.self-healing/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle generated files
+.gradle/
+.gradle-home/
+
+# User-specific configurations
+.idea/
+.kotlin/
+.venv/
+*.iml
+
+.DS_Store
+
+*.hprof
+
+/gradle/gradle-daemon-jvm.properties
